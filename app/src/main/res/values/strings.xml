@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pong</string>
+    <string name="startInstruction">Tap screen to start game</string>
+</resources>
